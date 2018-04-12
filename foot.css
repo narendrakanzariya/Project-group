@@ -1,0 +1,43 @@
+
+#header
+{
+background:#483D8B;
+height:300px;
+width:65%;
+padding-top:10px;
+padding-left:600px;
+}
+#header h4
+{ color:white;
+}
+.list
+{ 
+font-size:16px;
+color:gray;
+
+
+}
+.app,p	{height:80px;
+			width:200px;
+			color:white;
+			margin-left:500px;
+			margin-top:-200px;
+			display:inline-block;
+			
+			
+}
+.logo{ 
+	width:35px;
+	display:inline;
+	margin:-200px;
+	float:left;
+	margin-left:-500px;
+	
+	
+	
+}
+.house{ 
+margin:-1300px;
+display:inline-block;
+
+}
