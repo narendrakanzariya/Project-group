@@ -1,0 +1,29 @@
+
+.img{border-radius:20px;
+	border:solid;
+}
+
+.first
+{
+height:500px;
+width:100%;
+background:white;	
+border:groove;
+font-family:arial verdana;
+font-size:1.5em;
+padding:100px;
+}
+
+
+.info{
+	margin-left:20%;
+	border:solid;
+	height:900px;
+	width:1100px;
+	background:rgba(255,99,71,0.5);
+	border-radius:20px;
+	font-family:georgia;
+	
+}
+
+
