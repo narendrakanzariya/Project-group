@@ -1,0 +1,28 @@
+.img{padding-left:20%;
+	border-radius:20px;
+	border:solid;
+	padding-left:400px;
+	height:300px;	
+}
+.myslides{
+	height:300px;
+	width:100%;
+	border:20px;
+	border:solid;
+	margin-top:1.5%;
+}
+
+.first
+{  margin-left:17%;
+   margin-top:2.5%;
+   height:300px;
+   width:50%;
+   background:white;
+   border-radius:20px;   
+   border:solid;
+   font-family:arial verdana;
+   font-size:1.5em;
+   padding:100px;
+}
+
+
